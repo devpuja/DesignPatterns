@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Builder.csproj" />
+  <Project Path="BuilderDirector/BuilderDirector.csproj" Id="ec7a2b19-e71e-467c-835d-3d00f1d47f41" />
+  <Project Path="BuilderSimple/BuilderSimple.csproj" Id="0dd69ebe-aebc-4e87-984c-250a31dbdbba" />
+  <Project Path="StepBuilder/StepBuilder.csproj" Id="1d92fd40-2a62-47ad-8c3c-6a7c8d991ee6" />
+</Solution>
